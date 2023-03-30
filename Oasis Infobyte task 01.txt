@@ -17,7 +17,7 @@ from sklearn.metrics import accuracy_score
 # In[2]:
 
 
-data=pd.read_csv("C:\\Users\\Kailas\\OneDrive\\Desktop\\Iris.csv")
+data=pd.read_csv("Iris.csv")
 data.head()
 
 
